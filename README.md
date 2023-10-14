@@ -1,2 +1,1 @@
-# kaggle_sentiment_analysis_on_movie_reviews
-Sentiment Analysis on Movie Reviews: TF-IDF + (NMF vs KMeans)
+# Sentiment Analysis on Movie Reviews: Analyzing performance of Non-negative Matrix Factorization and KMeans Clustering
